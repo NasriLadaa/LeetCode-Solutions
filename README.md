@@ -7,7 +7,7 @@ Problems: Browse through problems categorized by topics numnber, name in LeetCod
 
 <h3>Getting Started</h3>
 <ul>
-<li> Choose a topic from the Problems folder.8 </li>
+<li> Choose a topic from the Problems folder. </li>
 <li>Navigate to the respective problem's directory.</li>
 <li>Access the problem statement from problem link above of the Solution file.</li>
 <li>If stuck, check the solution in brute force solution first, then best and optimal.</li>
